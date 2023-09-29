@@ -8,7 +8,7 @@
 - 当时明月在 | 曾照彩云归
 - 其实早睡两个小时，也不会错过什么重要消息。
 
-![wechat QRCode](https://github.com/naonao-coke/naonao-coke/blob/main/icon/WechatIMG296.jpg)
+![wechat QRCode](https://github.com/naonao-coke/naonao-coke/blob/main/WechatIMG296.jpg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChunelFeng/ChunelFeng/output/github-contribution-grid-snake-dark.svg">
