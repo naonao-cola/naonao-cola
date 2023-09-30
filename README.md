@@ -1,6 +1,7 @@
 ### Hi there 👋
-
+<!--
 ![naonao-cola's GitHub stats](https://github-readme-stats.vercel.app/api?username=naonao-cola&hide=issues&count_private=true&show_icons=true&theme=onedark)
+-->
 
 
 
