@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![naonao-cola's GitHub stats](https://github-readme-stats.vercel.app/api?username=naonao-cola&hide=issues&count_private=true&show_icons=true&theme=onedark)
+
+
 
 - 📫 My email: `1319144981@aliyun.com`
 - 🐶 My wechat: w1319144981
@@ -15,6 +18,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChunelFeng/ChunelFeng/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChunelFeng/ChunelFeng/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 <!--
 **naonao-coke/naonao-coke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
