@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![naonao-cola's GitHub stats](https://github-readme-stats.vercel.app/api?username=naonao-cola&hide=issues&count_private=true&show_icons=true&theme=onedark)
+- 难过的时候想变成鳄鱼，厌世的时候想变成臭鼬，睡觉的时候想变成考拉，沉思的时候想变成蓝鲸。
+- 只有在理解并享受某个黄昏，看着火烧云出神的时候，才想偶尔变成人。
 
 
 - 😄 I am a full-time developer major in Computer Science and C++.
@@ -11,9 +12,8 @@
   - <img src="./icon/weixin.svg" height="15em"  alt="wechat"> wechat: w1319144981
 
 
+![naonao-cola's GitHub stats](https://github-readme-stats.vercel.app/api?username=naonao-cola&hide=issues&count_private=true&show_icons=true&theme=onedark)
 
-- 难过的时候想变成鳄鱼，厌世的时候想变成臭鼬，睡觉的时候想变成考拉，沉思的时候想变成蓝鲸。
-- 只有在理解并享受某个黄昏，看着火烧云出神的时候，才想偶尔变成人。 ​​​
 
 
 
