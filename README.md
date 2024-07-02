@@ -12,8 +12,8 @@
   - <img src="./icon/weixin.svg" height="15em"  alt="wechat"> wechat: w1319144981
 
 
-![naonao-cola's GitHub stats](https://github-readme-stats.vercel.app/api?username=naonao-cola&hide=issues&count_private=true&show_icons=true&theme=onedark)
-
+![naonao-cola's GitHub stats](https://github-readme-stats.vercel.app/api?username=naonao-cola&count_private=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=naonao-cola&layout=compact&count_private=true&theme=onedark)
 
 
 
