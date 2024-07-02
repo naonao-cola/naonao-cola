@@ -9,7 +9,7 @@
 - 🌱 I’m learning Systems Performance for throughput-or-latency-sensitive applications.
 - How to reach me:
   - 📫 email: [1319144981@aliyun.com](mailto:1319144981@aliyun.com)
-  - <img src="./icon/weixin.svg" height="15em"  alt="wechat"> wechat: w1319144981
+  -  <img src="./icon/weixin.svg" height="15em"  alt="wechat"> wechat: w1319144981
 
 
 ![naonao-cola's GitHub stats](https://github-readme-stats.vercel.app/api?username=naonao-cola&count_private=true&theme=dark)
