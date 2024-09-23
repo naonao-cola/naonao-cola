@@ -16,9 +16,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=naonao-cola&layout=compact&count_private=true&theme=dark)
 
 
-![暗色](https://raw.githubusercontent.com/naonao-cola/naonao-cola/output/github-contribution-grid-snake-dark.svg)
-![亮色](https://raw.githubusercontent.com/naonao-cola/naonao-cola/output/github-contribution-grid-snake.svg)
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naonao-cola/naonao-cola/output/github-contribution-grid-snake-dark.svg">
